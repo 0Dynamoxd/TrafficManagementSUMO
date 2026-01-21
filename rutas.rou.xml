@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<routes>
+    <vType id="DEFAULT_VEHTYPE" accel="0.8" decel="4.5" length="5" maxSpeed="10" color="1,1,0" guiShape="passenger"/>
+</routes>
